@@ -6,4 +6,6 @@ Searching and sorting operations in arrays by using
 
 2)Binary search
 
+3)ArrayList
+
 
