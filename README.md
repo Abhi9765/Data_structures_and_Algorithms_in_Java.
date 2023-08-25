@@ -6,6 +6,6 @@ Searching and sorting operations in arrays by using
 
 2)Binary search
 
-3)ArrayList
+3)ArrayList-Menu prograam created by using ArrayList.were 4 options(functions also) are given for adding,searching,displaying,and removing element. 
 
 
